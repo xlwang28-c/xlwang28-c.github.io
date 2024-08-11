@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "[4] A two-dimensional preventive maintenance strategy for items sold with warranty"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'

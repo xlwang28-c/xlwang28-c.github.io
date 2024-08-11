@@ -1,32 +1,18 @@
 ---
 permalink: /
-title: "About Me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Weclome to my personal website! I am Xiao-Lin Wang (王晓林), currently an Associate Professor in the Business School, Sichuan University, Chengdu, China. Prior to that, I was a Research Assistant Professor in the Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Hong Kong SAR. I received my PhD in Industrial Engineering from City University of Hong Kong in 2020, and a BE degree and an MS degree in Industrial Engineering from Southeast University, Nanjing, China, in 2013 and 2016, respectively. 
+Dr. Xiao-Lin Wang (王晓林) is currently an Associate Professor in the Business School, Sichuan University, Chengdu, China. Prior to that, he was a Research Assistant Professor in the Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Hong Kong SAR. He received my PhD in Industrial Engineering from City University of Hong Kong in 2020, and a BE degree and an MS degree in Industrial Engineering from Southeast University, Nanjing, China, in 2013 and 2016, respectively. 
 
-My research interest lies in applying data analytics, stochastic modeling, and optimization techniques to solve reliability improvement, maintenance optimization, warranty analytics, and operations management problems. I am also collaborating with my colleagues on other research topics, like interpretable machine learning and reinforcement learning algorithm design, among others. My research is funded by the National Natural Science Foundation of China, the Ministry of Education of China, and Sichuan University, among others. My research outcomes have appeared in IEEE Transactions on Reliability, IISE Transactions, European Journal of Operational Research, Manufacturing & Service Operations Management, among others. I am currently a member of IEEE, INFORMS, and POMS.
+Dr. Wang's research interest lies in applying data analytics, stochastic modeling, and optimization techniques to solve reliability improvement, maintenance optimization, warranty analytics, and operations management problems. He is also collaborating with his colleagues on other research topics, like interpretable machine learning and reinforcement learning algorithm design, among others. His research is funded by the National Natural Science Foundation of China, the Ministry of Education of China, and Sichuan University, among others. His research outcomes have appeared in IEEE Transactions on Reliability, IISE Transactions, European Journal of Operational Research, Manufacturing & Service Operations Management, among others. 
 
-Services
-======
-1. Journal Editorship:
+Dr. Wang is currently sitting in the editorial board of two journals: International Journal of Reliability and Safety (Dec 2021 - present) and 工业工程 (Jan 2024 - present). He is also an Early-Career Council Member of the Stochastic Service and Operations Management Chapter of ORCS (Jul 2023 – present). He has been serving as an anonymous referee for over 30 academic journals. He is a member of IEEE, INFORMS, and POMS.
 
-Editorial Board Member, International Journal of Reliability and Safety, Dec 2021 - present​.
-Junior Editorial Board Member, 工业工程, Jan 2024 - present.
-
-2. Professional Society Service
-   
-Early-Career Council Member, Stochastic Service and Operations Management Chapter of ORCS, Jul 2023 – present
-
-3. Journal Referee:
-
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======

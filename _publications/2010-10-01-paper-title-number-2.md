@@ -1,12 +1,12 @@
 ---
 title: "[2] Modeling flexible two-dimensional warranty contracts for used products considering reliability improvement actions"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt:# 'This paper is about the number 2. The number 3 is left for future work.'
-date:# 2010-10-01
-venue:# 'Journal 1'
-slidesurl:# 'http://academicpages.github.io/files/slides2.pdf'
-paperurl:# 'http://academicpages.github.io/files/paper2.pdf'
+# permalink: /publication/2010-10-01-paper-title-number-2
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# date:# 2010-10-01
+# venue:# 'Journal 1'
+# slidesurl:# 'http://academicpages.github.io/files/slides2.pdf'
+# paperurl:# 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Chun Su, Xiaolin Wang. (2016). <i>Journal of Risk and Reliability</i>. 230(2), 237-247.'
 ---
 

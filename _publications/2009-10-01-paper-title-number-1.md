@@ -1,12 +1,12 @@
 ---
 title: "Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /[publication/2009-10-01-paper-title-number-1](https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250)
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: #2009-10-01
+venue: #'Journal 1'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250]'
+paperurl: #'[https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250]'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

@@ -14,13 +14,15 @@ My research interest lies in applying data analytics, stochastic modeling, and o
 Services
 ======
 1. Journal Editorship:
+
 Editorial Board Member, International Journal of Reliability and Safety, Dec 2021 - present​.
 Junior Editorial Board Member, 工业工程, Jan 2024 - present.
 
 2. Professional Society Service
+   
 Early-Career Council Member, Stochastic Service and Operations Management Chapter of ORCS, Jul 2023 – present
 
-2. Journal Referee:
+3. Journal Referee:
 
 
 

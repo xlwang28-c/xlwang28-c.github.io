@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2015-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Chun Su, Xiaolin Wang. (2016). <i>Quality and Reliability Engineering International</i>. 32(8), 2889-2899.'
 ---
 

@@ -2,11 +2,6 @@
 title: "[1] Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty"
 collection: publications
 permalink: /"https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250"
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: #2009-10-01
-venue: #'Journal 1'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: #'[https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250]'
 citation: 'Chun Su, Xiaolin Wang. (2014). <i>Journal of Risk and Reliability</i>. 228(5), 518-528.'
 ---
 

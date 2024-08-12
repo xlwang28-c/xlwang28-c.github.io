@@ -8,6 +8,6 @@ venue: "Sichuan University, Business School"
 
 <b>@ City University of Hong Kong</b>
 <ul>
-  <li>TA in Reliability Engineering (SEEM4064), 2018/19 A & 2019/20 A</li>
-  <li>TA in Technological Innovation and Entrepreneurship (SEEM6012), 2017/18 B & 2018/19 B</li>
+  <li>SEEM4064: Reliability Engineering (TA), 2018/19 A & 2019/20 A</li>
+  <li>SEEM6012: Technological Innovation and Entrepreneurship (TA), 2017/18 B & 2018/19 B</li>
 </ul>

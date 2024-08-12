@@ -2,7 +2,7 @@
 title: "Seminars in IE Frontiers (<i>Quality and Reliability Engineering</i>)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/teaching-#1
+permalink: xlwang28-c/teaching/teaching-#1
 venue: "Sichuan University, Business School"
 ---
 

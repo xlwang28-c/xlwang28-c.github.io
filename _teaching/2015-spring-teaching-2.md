@@ -1,7 +1,7 @@
 ---
 title: "Supply Chain Management"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Sichuan University, Business"
 ---

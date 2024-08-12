@@ -15,9 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-layout: archive
-title: "Working Papers"
-permalink: /working papers/
-author_profile: true
----
+

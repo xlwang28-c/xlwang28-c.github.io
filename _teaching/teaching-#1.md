@@ -2,7 +2,6 @@
 title: "Seminars in IE Frontiers (<i>Quality and Reliability Engineering</i>)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/teaching-#1
 venue: "Sichuan University, Business School"
 ---
 
@@ -24,13 +23,19 @@ venue: "Sichuan University, Business School"
   <ul>
     <li>2022/23 B; 2023/24 B; 2024/25 A</li>
   </ul></li>
+</ul>
+
+<b>@ Hong Kong Polytechnic University</b>
 <ul>
+  <li>Introduction to Business Analytics (LGT2425) 
+  <ul>
+    <li>2020/21 A [<b>SFQ: 4.4/5</b>]; 2021/22 A [<b>SFQ: 4.6/5</b>]</li>
+  </ul></li>
+</ul>
 
-
-
-
-This course aims to introduce the frontiers of industrial engineering to undergraduate students. I'm taking charge of the <i>Quality and Reliability Engineering</i> part (3 credit hours).  
-
-Heading 1
-======
+<b>@ City University of Hong Kong</b>
+<ul>
+  <li>TA in Reliability Engineering (SEEM4064), 2018/19 A & 2019/20 A</li>
+  <li>TA in Technological Innovation and Entrepreneurship (SEEM6012), 2017/18 B & 2018/19 B</li>
+</ul>
 

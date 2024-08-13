@@ -15,8 +15,6 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
     {% for post in site.publications reversed %}
 
 {% if post.pubtype == 'papers' %}
@@ -25,9 +23,7 @@ author_profile: true
       <h2>Working Papers</h2>
       {% include archive-single.html %}
   {% endif %}
-      {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
 
 {% else %}
   {% for post in site.publications reversed %}

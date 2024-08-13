@@ -10,19 +10,21 @@ author_profile: true
 {% endif %}
 
 
-
-{% include base_path %}
 <h2>Journal Papers</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'papers' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% include base_path %}
 
-<h2>Working Papers</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'manuscripts' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
 
+<h2>Working Papers</h2><hr />
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

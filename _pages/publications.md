@@ -16,15 +16,15 @@ author_profile: true
 
 [25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun<sup>*</sup>, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]
 
-[24] Jianyu Xu, Bin Liu*, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). &quot;Online reinforcement learning for condition-based group maintenance using factored Markov decision processes.&quot; <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>]
+[24] Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). &quot;Online reinforcement learning for condition-based group maintenance using factored Markov decision processes.&quot; <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>]
 
-[23] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b>*. (2024). &quot;Monitoring aggregate warranty claims with dynamically-designed CUSUM and EWMA charts.&quot; <i>International Journal of Production Research</i>. 62(7), 2370-2397. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2217298">link</a>]
+[23] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup>. (2024). &quot;Monitoring aggregate warranty claims with dynamically-designed CUSUM and EWMA charts.&quot; <i>International Journal of Production Research</i>. 62(7), 2370-2397. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2217298">link</a>]
 
-[22] <b>Xiao-Lin Wang</b>*. (2023). &quot;Design and pricing of usage-driven customized two-dimensional extended warranty menus.&quot; <i>IISE Transactions</i>. 55(9): 873-885. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2104972">link</a>]
+[22] <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;Design and pricing of usage-driven customized two-dimensional extended warranty menus.&quot; <i>IISE Transactions</i>. 55(9): 873-885. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2104972">link</a>]
 
-[21] Xiujie Zhao, Bin Liu, Jianyu Xu, <b>Xiao-Lin Wang</b>*. (2023). &quot;Imperfect maintenance policies for warranted products under stochastic performance degradation.&quot; <i>European Journal of Operational Research</i>. 308(1): 150-165. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S037722172200858X">link</a>]
+[21] Xiujie Zhao, Bin Liu, Jianyu Xu, <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;Imperfect maintenance policies for warranted products under stochastic performance degradation.&quot; <i>European Journal of Operational Research</i>. 308(1): 150-165. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S037722172200858X">link</a>]
 
-[20] Liangliang Zhuang, Ancha Xu*, <b>Xiao-Lin Wang</b>*. (2023). &quot;A prognostic driven predictive maintenance framework based on Bayesian deep learning.&quot; <i>Reliability Engineering & System Safety</i>. 234, 109181. [<a href="https://www.sciencedirect.com/science/article/pii/S0951832023000960">link</a>]
+[20] Liangliang Zhuang, Ancha Xu<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;A prognostic driven predictive maintenance framework based on Bayesian deep learning.&quot; <i>Reliability Engineering & System Safety</i>. 234, 109181. [<a href="https://www.sciencedirect.com/science/article/pii/S0951832023000960">link</a>]
 
 [19] Shizhe Peng, Wei Jiang, Lai Wei, <b>Xiao-Lin Wang</b>*. (2022). &quot;A new cost-sharing preventive maintenance program under two-dimensional warranty.&quot; <i>International Journal of Production Economics</i>. 254, 108580. [<a href="https://www.sciencedirect.com/science/article/pii/S0925527322001694">link</a>]
 

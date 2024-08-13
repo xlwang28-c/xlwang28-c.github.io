@@ -13,6 +13,9 @@ author_profile: true
 <h2>Journal Papers</h2>
 
 
+
+[6] <b>Xiaolin Wang</b>, Wei Xie. (2018). &quot;Two-dimensional warranty: A literature review.&quot; <i>Journal of Risk and Reliability</i>. 232(3), 284-307. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006X17742776">link</a>]
+
 [5] Chun Su, <b>Xiaolin Wang</b>. (2016). &quot;A two-stage preventive maintenance optimization model incorporating two-dimensional extended warranty.&quot; <i>Reliability Engineering & System Safety</i>. 155, 169-178. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832016302216">link</a>]
 
 [4] <b>Xiaolin Wang</b>, Chun Su. (2016). &quot;A two-dimensional preventive maintenance strategy for items sold with warranty.&quot; <i>International Journal of Production Research</i>. 54(19), 5901-5915. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1187314">link</a>]

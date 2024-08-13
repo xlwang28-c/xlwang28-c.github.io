@@ -13,14 +13,8 @@ author_profile: true
 <h2>Journal Papers</h2>
 {% include base_path %}
 
-{% for post in site.publications_papers reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Working Papers</h2>
-{% include base_path %}
-
-{% for post in site.publications_manuscripts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 

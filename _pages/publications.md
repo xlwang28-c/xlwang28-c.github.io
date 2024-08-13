@@ -19,10 +19,16 @@ author_profile: true
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
 
-<h2>Working Papers</h2><hr />
+{% if post.pubtype == 'papers' %}
+      {% include archive-single.html %}
+      {% else %}
+      <h2>Working Papers</h2>
+      {% include archive-single.html %}
+  {% endif %}
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}

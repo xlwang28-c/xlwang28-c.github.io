@@ -11,14 +11,14 @@ author_profile: true
 
 
 <h2>Journal Papers</h2>
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+[1] Chun Su, <b>Xiaolin Wang</b>. (2014). &quot;Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty.&quot; <i>Journal of Risk and Reliability</i>. 228(5), 518-528. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250">link</a>]
+
 
 
 <h2>Working Papers</h2>
+
 [W1] Xiaoge Zhang, <b>Xiao-Lin Wang</b>, Indranil Bose, Fenglei Fan, Yiu-Ming Cheung (2024) Enhancing the Performance of Neural Networks Through Causal Discovery and Integration of Domain Knowledge, <i>European Journal of Operational Research</i>, under 2nd round revision.
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2024) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. 

@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-[25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun*, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]
+[25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun<sup>*</sup>, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]
 
 [24] Jianyu Xu, Bin Liu*, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). &quot;Online reinforcement learning for condition-based group maintenance using factored Markov decision processes.&quot; <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>]
 

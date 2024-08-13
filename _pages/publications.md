@@ -20,7 +20,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{Woeking Papers}</h2><hr />
+        <h2>Working Papers</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}

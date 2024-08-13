@@ -246,8 +246,8 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications_papers
-      type: publications_manuscripts
+      type: papers
+      type: manuscripts
     values:
       layout: single
       author_profile: true

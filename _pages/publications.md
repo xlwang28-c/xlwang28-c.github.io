@@ -13,7 +13,7 @@ author_profile: true
 <h2>Journal Papers</h2>
 
 
-
+[5] Chun Su, <b>Xiaolin Wang</b>. (2016). &quot;A two-stage preventive maintenance optimization model incorporating two-dimensional extended warranty.&quot; <i>Reliability Engineering & System Safety</i>. 155, 169-178. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832016302216">link</a>]
 
 [4] <b>Xiaolin Wang</b>, Chun Su. (2016). &quot;A two-dimensional preventive maintenance strategy for items sold with warranty.&quot; <i>International Journal of Production Research</i>. 54(19), 5901-5915. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1187314">link</a>]
 

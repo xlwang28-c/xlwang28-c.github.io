@@ -15,7 +15,7 @@ author_profile: true
 
 
 
-
+[4] <b>Xiaolin Wang</b>, Chun Su. (2016). &quot;A two-dimensional preventive maintenance strategy for items sold with warranty.&quot; <i>International Journal of Production Research</i>. 54(19), 5901-5915. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1187314">link</a>]
 
 [3] Chun Su, <b>Xiaolin Wang</b>. (2016). &quot;Optimal upgrade policy for used products sold with two-dimensional warranty.&quot; <i>Quality and Reliability Engineering International</i>. 32(8), 2889-2899. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/qre.1973">link</a>]
 

@@ -13,20 +13,14 @@ author_profile: true
 <h2>Journal Papers</h2>
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-    {% for post in site.publications reversed %}
+{% for post in site.publications_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-{% if post.pubtype == 'papers' %}
-      {% include archive-single.html %}
-      {% else %}
-      <h2>Working Papers</h2>
-      {% include archive-single.html %}
-  {% endif %}
-    {% endfor %}
+<h2>Working Papers</h2>
+{% include base_path %}
 
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.publications_manuscripts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+

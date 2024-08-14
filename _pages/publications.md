@@ -68,9 +68,9 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[W1] Xiaoge Zhang, <b>Xiao-Lin Wang</b>, Indranil Bose, Fenglei Fan, Yiu-Ming Cheung (2024) Enhancing the Performance of Neural Networks Through Causal Discovery and Integration of Domain Knowledge, <i>European Journal of Operational Research</i>, under 2nd round revision.
+[W1] Xiaoge Zhang, <b>Xiao-Lin Wang</b>, Indranil Bose, Fenglei Fan, Yiu-Ming Cheung (2024) Enhancing the Performance of Neural Networks Through Causal Discovery and Integration of Domain Knowledge, <i>European Journal of Operational Research</i>, under 2nd round revision. [<a href="https://arxiv.org/pdf/2311.17303v2.pdf">link</a>]
 
-[W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2024) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. 
+[W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2024) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
 
 [W3] Peng Liu, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2024) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>IISE Transactions</i>, under major revision.  
 

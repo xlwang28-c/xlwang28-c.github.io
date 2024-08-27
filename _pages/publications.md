@@ -67,7 +67,7 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[W1] Xiaoge Zhang, <b>Xiao-Lin Wang</b>, Indranil Bose, Fenglei Fan, Yiu-Ming Cheung (2024) Enhancing the Performance of Neural Networks Through Causal Discovery and Integration of Domain Knowledge, <i>European Journal of Operational Research</i>, under 2nd round revision. [<a href="https://arxiv.org/pdf/2311.17303v2.pdf">link</a>]
+[W1] Xiaoge Zhang, <b>Xiao-Lin Wang</b>, Indranil Bose, Fenglei Fan, Yiu-Ming Cheung (2024) Enhancing the Performance of Neural Networks Through Causal Discovery and Integration of Domain Knowledge, <i>European Journal of Operational Research</i>, under 2nd round revision. [<a href="https://arxiv.org/pdf/2311.17303">link</a>]
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2024) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
 
@@ -77,6 +77,6 @@ author_profile: true
 
 [W5] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang* (2024) Price Competition in an Oligopolistic Extended Warranty Market, <i>European Journal of Operational Research</i>, under review.  
 
-[W6] Pingping Dong, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review.
+[W6] Pingping Dong, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
 [W7] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2024) Bayesian Reliability Demonstration Testing via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under review.  

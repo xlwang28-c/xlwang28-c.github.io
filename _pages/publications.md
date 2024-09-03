@@ -73,7 +73,7 @@ author_profile: true
 
 [W3] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2024) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>IISE Transactions</i>, under 2nd round review.  
 
-[W4] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>International Journal of Production Research</i>, under review. 
+[W4] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under review. 
 
 [W5] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang* (2024) Price Competition in an Oligopolistic Extended Warranty Market, <i>European Journal of Operational Research</i>, under review.  
 

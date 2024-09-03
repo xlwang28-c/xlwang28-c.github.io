@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-<h2>Journal Papers</h2>
+<h2>Journal Papers</h2> (Student author underlined)
 
 
 [25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun<sup>*</sup>, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]
@@ -23,7 +23,7 @@ author_profile: true
 
 [21] Xiujie Zhao, Bin Liu, Jianyu Xu, <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;Imperfect maintenance policies for warranted products under stochastic performance degradation.&quot; <i>European Journal of Operational Research</i>. 308(1): 150-165. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S037722172200858X">link</a>]
 
-[20] Liangliang Zhuang, Ancha Xu<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;A prognostic driven predictive maintenance framework based on Bayesian deep learning.&quot; <i>Reliability Engineering & System Safety</i>. 234, 109181. [<a href="https://www.sciencedirect.com/science/article/pii/S0951832023000960">link</a>]
+[20] <u>Liangliang Zhuang<u>, Ancha Xu<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>. (2023). &quot;A prognostic driven predictive maintenance framework based on Bayesian deep learning.&quot; <i>Reliability Engineering & System Safety</i>. 234, 109181. [<a href="https://www.sciencedirect.com/science/article/pii/S0951832023000960">link</a>]
 
 [19] Shizhe Peng, Wei Jiang, Lai Wei, <b>Xiao-Lin Wang</b><sup>*</sup>. (2022). &quot;A new cost-sharing preventive maintenance program under two-dimensional warranty.&quot; <i>International Journal of Production Economics</i>. 254, 108580. [<a href="https://www.sciencedirect.com/science/article/pii/S0925527322001694">link</a>]
 
@@ -71,12 +71,12 @@ author_profile: true
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2024) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
 
-[W3] Peng Liu, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2024) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>IISE Transactions</i>, under 2nd round review.  
+[W3] <u>Peng Liu<u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2024) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>IISE Transactions</i>, under 2nd round review.  
 
 [W4] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>International Journal of Production Research</i>, under review. 
 
 [W5] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang* (2024) Price Competition in an Oligopolistic Extended Warranty Market, <i>European Journal of Operational Research</i>, under review.  
 
-[W6] Pingping Dong, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
+[W6] <u>Pingping Dong<u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
 [W7] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2024) Bayesian Reliability Demonstration Testing via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under review.  

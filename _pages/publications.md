@@ -11,7 +11,7 @@ author_profile: true
 
 
 <h2>Journal Papers</h2> 
-
+(Student author underlined)
 
 [25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun<sup>*</sup>, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]
 
@@ -80,3 +80,4 @@ author_profile: true
 [W6] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
 [W7] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2024) Bayesian Reliability Demonstration Testing via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under review.  
+

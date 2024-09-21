@@ -9,11 +9,11 @@ venue: "Sichuan University, Business School"
 <ul>
   <li>Reliability Engineering (UG Elective, 32 credit hours) 
   <ul>
-    <li>2023/24 B</li>
+    <li>2023/24 B [<b>SFQ: 96.8</b>]</li>
   </ul></li>
   <li>Quality and Reliability Management (Full-time MEM Program, 36 credit hours)
   <ul>
-    <li>2023/24 A [<b>SFQ: 99</b>]; 2024/25 A</li>
+    <li>2023/24 A [<b>SFQ: 99.1</b>]</li>
   </ul></li>
   <li>Supply Chain Management (UG Elective, with Prof. Xuedong Liang, 16 credit hours)
   <ul>

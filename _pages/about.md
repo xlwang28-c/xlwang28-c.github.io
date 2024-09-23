@@ -13,4 +13,4 @@ Dr. Wang's research interest lies in applying data analytics, stochastic modelin
 
 Dr. Wang is currently sitting in the editorial board of two journals: <i>International Journal of Reliability and Safety</i> (Dec 2021 - present) and 工业工程 (Jan 2024 - present). He is also a Council Member of the CSOOPEM Industrial Engineering Branch (Dec 2024 – present) and an Early-Career Council Member of the ORSC Stochastic Service and Operations Management Branch (Jul 2023 – present). He has been serving as an anonymous referee for over 30 academic journals. He is a member of IEEE, INFORMS, and POMS.
 
-<b>For prospective students:</b> Dr. Xiao-Lin Wang is actively recruiting self-motivated research degree students (PhD & MPhil). If you are interested, please send your CV and transcript to xiaolinwang@scu.edu.cn for possible consideration.
+<b>For prospective students:</b> Dr. Xiao-Lin Wang is actively recruiting self-motivated research degree students (PhD & MPhil). If you are interested, please send your CV and transcript to <u>xiaolinwang@scu.edu.cn</u> for possible consideration.

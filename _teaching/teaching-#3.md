@@ -25,7 +25,7 @@ venue: "Sichuan University, Business School"
   </ul></li>
   <li>Supply Chain Management (UG Elective, with Prof. Xuedong Liang, 16 credit hours)
   <ul>
-    <li>2023/24 A [<b>SFQ: 95.1 & 93.8</b>]
+    <li>2023/24 A [<b>SFQ: 95.1 & 93.8</b>]</li>
   </ul></li>
 </ul>
 

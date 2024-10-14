@@ -19,7 +19,7 @@ venue: "Sichuan University, Business School"
   <ul>
     <li>2022/23 B; 2023/24 B; 2024/25 A</li>
   </ul></li>
-  <li>Introduction to Industrial Engineering (UG Elective, with Prof. Xuedong Liang, 16 credit hours)
+  <li>Introduction to Industrial Engineering (UG Elective, with Prof. Zhaoxia Guo, 16 credit hours)
   <ul>
     <li>2024/25 B</li>
   </ul></li>

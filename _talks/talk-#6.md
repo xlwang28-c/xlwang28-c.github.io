@@ -5,4 +5,5 @@ type: "Talk"
 ---
 <ul>
   <li><b>26 October 2024</b> - Young Scholars Workshop on Quality and Reliability (Organized by myself)</li>
+  <li><b>6 December 2024</b> - Department of Industrial Engineering, Southeast University, Seminar (Invited by Prof. Chun Su)</li>
 </ul>

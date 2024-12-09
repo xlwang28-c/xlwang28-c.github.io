@@ -77,7 +77,7 @@ author_profile: true
 
 [W5] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2024) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under major revision.  
 
-[W6] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under review.
+[W6] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under major revision.
 
 [W7] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 

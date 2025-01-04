@@ -73,7 +73,7 @@ author_profile: true
 
 [W3] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang* (2024) Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand, <i>European Journal of Operational Research</i>, under 2nd round review. 
 
-[W4] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2024) Bayesian Reliability Demonstration Testing via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under major revision.  
+[W4] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2024) Bayesian Reliability Demonstration Testing with a Pre-demonstration Procedure via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 2nd round review.   
 
 [W5] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2024) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under major revision.  
 

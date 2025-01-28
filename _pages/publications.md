@@ -83,5 +83,5 @@ author_profile: true
 
 [W8] Wanqing Cheng, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2024) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>International Journal of Production Economics</i>, under review.  
 
-[W9] Yajing Chen, Yanrong Li*, <b>Xiao-Lin Wang</b>*, Zhi-Sheng Ye (2024) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under review.  
+[W9] Yajing Chen, Yanrong Li*, <b>Xiao-Lin Wang</b>*, Zhi-Sheng Ye (2024) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under review. 
 

@@ -79,7 +79,7 @@ author_profile: true
 
 [W6] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2024) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under major revision.
 
-[W7] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
+[W7] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2024) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under major revision. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
 [W8] Wanqing Cheng, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2024) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>International Journal of Production Economics</i>, under review.  
 

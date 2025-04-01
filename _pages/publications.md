@@ -12,6 +12,7 @@ author_profile: true
 
 <h2>Journal Papers</h2> 
 (Student author underlined)
+
 [26] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025) &quot;Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand.&quot; <i>European Journal of Operational Research</i>, in press. 
 
 [25] <b>Xiao-Lin Wang</b>, Qiuzhuang Sun<sup>*</sup>, Jianyu Xu. (2024). &quot;Simultaneous or sequential? Retail strategy of a durable product and an extended warranty.&quot; <i>IEEE Transactions on Engineering Management</i>. 71, 8223-8239. [<a href="https://ieeexplore.ieee.org/document/10510648">link</a>]

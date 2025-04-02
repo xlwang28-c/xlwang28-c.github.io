@@ -76,7 +76,7 @@ author_profile: true
 
 [W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Bayesian Reliability Demonstration Testing with a Pre-demonstration Procedure via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 2nd round revision.   
 
-[W4] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2025) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under major revision.  
+[W4] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2025) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under 2nd round review.   
 
 [W5] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2025) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under major revision.
 

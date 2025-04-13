@@ -9,23 +9,23 @@ venue: "Sichuan University, Business School"
 <ul>
   <li>Reliability Engineering (UG Elective, 32 credit hours) 
   <ul>
-    <li>2023/24 B [<b>SFQ: 96.8</b>]</li>
+    <li>2023/24 Spring [<b>SFQ: 96.8</b>]</li>
   </ul></li>
   <li>Quality and Reliability Management (Full-time MEM Program, 36 credit hours)
   <ul>
-    <li>2023/24 A [<b>SFQ: 99.1</b>]; 2024/25 A</li>
+    <li>2023/24 Fall [<b>SFQ: 99.1</b>]; 2024/25 Fall</li>
   </ul></li>
   <li>Seminars in IE Frontiers (<i>Quality and Reliability Engineering</i>, 3 credit hours)
   <ul>
-    <li>2022/23 B; 2023/24 B; 2024/25 A</li>
+    <li>2022/23 Spring; 2023/24 Spring; 2024/25 Fall [<b>SFQ: 96.8</b>]</li>
   </ul></li>
   <li>Introduction to Industrial Engineering (UG Elective, with Prof. Zhaoxia Guo, 16 credit hours)
   <ul>
-    <li>2024/25 B</li>
+    <li>2024/25 Spring </li>
   </ul></li>
   <li>Supply Chain Management (UG Elective, with Prof. Xuedong Liang, 16 credit hours)
   <ul>
-    <li>2023/24 A [<b>SFQ: 95.1 & 93.8</b>]</li>
+    <li>2023/24 Fall [<b>SFQ: 95.1 & 93.8</b>]</li>
   </ul></li>
 </ul>
 

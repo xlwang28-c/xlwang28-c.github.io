@@ -76,13 +76,13 @@ author_profile: true
 
 [W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Bayesian Reliability Demonstration Testing with a Pre-demonstration Procedure via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 2nd round revision.   
 
-[W4] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2025) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under 2nd round review.   
+[W4] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2025) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under 2nd round review.
 
-[W5] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2025) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, <i>Reliability Engineering & System Safety</i>, under major revision.
+[W5] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under major revision. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
-[W6] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under major revision. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
+[W6] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
 
 [W7] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, under review.  
 
-[W8] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under review. [<a href="https://arxiv.org/abs/2501.18203">link</a>]
+[W8] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2025) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, working paper.
 

@@ -23,10 +23,6 @@ venue: "Sichuan University, Business School"
   <ul>
     <li>2024/25 Spring </li>
   </ul></li>
-  <li>Supply Chain Management (UG Elective, with Prof. Xuedong Liang, 16 credit hours)
-  <ul>
-    <li>2023/24 Fall [<b>SFQ: 95.1 & 93.8</b>]</li>
-  </ul></li>
 </ul>
 
 <b>@ Hong Kong Polytechnic University</b>

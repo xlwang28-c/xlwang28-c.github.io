@@ -74,7 +74,7 @@ author_profile: true
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>]  
 
-[W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Bayesian Reliability Demonstration Testing with a Pre-demonstration Procedure via Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 2nd round revision.   
+[W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Testing via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 3rd round review.   
 
 [W4] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang* (2025) Design and Pricing of Extended Warranty Menus with Reference Effects, <i>European Journal of Operational Research</i>, under 2nd round review.
 

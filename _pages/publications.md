@@ -84,5 +84,7 @@ author_profile: true
 
 [W7] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, under review.  
 
-[W8] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2025) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, working paper.
+[W8] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under review.
+
+[W9] <b>Xiao-Lin Wang</b>, Shizhe Peng*, Xiaoge Zhang, Jianyu Xu (2025) Spare parts provisioning with installed base information: An integrated forecasting and stocking approach, working paper.
 

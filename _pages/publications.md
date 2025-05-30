@@ -13,7 +13,7 @@ author_profile: true
 <h2>Journal Papers</h2> 
 (Student author underlined)
 
-[27] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup> (2025). &quot;Design and Pricing of Extended Warranty Menus with Reference Effects.&quot; <i>European Journal of Operational Research</i>, Accepted.
+[27] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2025). &quot;Design and Pricing of Extended Warranty Menus with Reference Effects.&quot; <i>European Journal of Operational Research</i>, Accepted.
 
 [26] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025). &quot;Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand.&quot; <i>European Journal of Operational Research</i>, 325(3), 541-552. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725002516">link</a>] 
 

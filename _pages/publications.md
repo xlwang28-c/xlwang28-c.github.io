@@ -77,7 +77,7 @@ author_profile: true
 
 [W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 3rd round review.   
 
-[W4] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under major revision. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
+[W4] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
 [W5] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
 

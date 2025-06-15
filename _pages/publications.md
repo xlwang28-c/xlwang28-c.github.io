@@ -85,5 +85,5 @@ author_profile: true
 
 [W7] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under review.
 
-[W8] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulated warranty claims, <i>Journal of Quality Technology<\i>, to be submitted.
+[W8] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulated warranty claims, <i>Journal of Quality Technology</i>, to be submitted.
 

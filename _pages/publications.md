@@ -75,7 +75,7 @@ author_profile: true
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>]  
 
-[W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, under 3rd round review.   
+[W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, under minor revision.   
 
 [W4] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
@@ -85,5 +85,5 @@ author_profile: true
 
 [W7] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under major revision.
 
-[W8] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulated warranty claims, <i>Journal of Quality Technology</i>, to be submitted.
+[W8] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under review.
 

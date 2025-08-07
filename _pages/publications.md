@@ -13,6 +13,8 @@ author_profile: true
 <h2>Journal Papers</h2> 
 (Student author underlined)
 
+[28] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, in press. 
+
 [27] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2025). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>]
 
 [26] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025). Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand. <i>European Journal of Operational Research</i>, 325(3), 541-552. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725002516">link</a>] 
@@ -75,16 +77,14 @@ author_profile: true
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Rested Bandits, <i>Management Science</i>, under major revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>]  
 
-[W3] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, under minor revision.   
+[W3] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
-[W4] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
+[W4] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
 
-[W5] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
+[W5] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under major revision.
 
-[W6] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under major revision.
+[W6] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under review.
 
-[W7] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under review.
+[W7] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>European Journal of Operational Research</i>, under review.
 
-[W8] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>European Journal of Operational Research</i>, to be submitted.
-
-[W9] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, under review.  
+[W8] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, under review.  

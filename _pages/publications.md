@@ -81,7 +81,7 @@ author_profile: true
 
 [W4] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
 
-[W5] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under major revision.
+[W5] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under 2nd round review.
 
 [W6] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under review.
 

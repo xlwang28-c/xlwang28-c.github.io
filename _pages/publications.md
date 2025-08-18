@@ -79,7 +79,7 @@ author_profile: true
 
 [W3] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang* (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal of Computing</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2408.13293">link</a>]
 
-[W4] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands, <i>IISE Transactions</i>, under major revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
+[W4] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
 
 [W5] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under 2nd round review.
 

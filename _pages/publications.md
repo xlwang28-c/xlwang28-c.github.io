@@ -13,7 +13,7 @@ author_profile: true
 <h2>Journal Papers</h2> 
 (Student author underlined)
 
-[28] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, in press. 
+[28] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b>* (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>]
 
 [27] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2025). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>]
 

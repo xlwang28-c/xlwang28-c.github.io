@@ -89,4 +89,4 @@ author_profile: true
 
 [W8] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, under review.  
 
-[W9] <u>Peng Liu</u>, <b>Xiao-Lin Wang</b>* (2025) Data Integrated Age Replacement via Operational Data Analytics, under preparation.  
+[W9] <u>Peng Liu</u>, <b>Xiao-Lin Wang</b>* (2025) Data Integrated Age Replacement via Operational Data Analytics (ODA), under preparation.  

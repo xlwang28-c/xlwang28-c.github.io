@@ -75,7 +75,7 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[W1] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>IISE Transactions</i>, under 3rd round revision.  
+[W1] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>European Journal of Operational Research</i>, under review.  
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round review. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
 

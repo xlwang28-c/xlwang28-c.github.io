@@ -75,11 +75,11 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[W1] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>Production and Operations Management</i>, under review.  
+[W1] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2501.18203">link</a>]  
 
 [W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round review. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
 
-[W3] Yajing Chen, Yanrong Li, <b>Xiao-Lin Wang</b>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under 2nd round review. [<a href="https://arxiv.org/abs/2501.18203">link</a>]   
+[W3] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Classical Periodic Replacement Policy Revisited: An Operational Statistics Perspective, <i>Production and Operations Management</i>, under review.   
 
 [W4] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, under 2nd round review.
 

@@ -12,6 +12,7 @@ author_profile: true
 
 <h2>Journal Papers</h2> 
 (Student author underlined)
+
 [30] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, in press.
 
 [29] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming.

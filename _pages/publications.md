@@ -13,13 +13,14 @@ author_profile: true
 <h2>Journal Papers</h2> 
 (Student author underlined)
 
-[30] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, in press.
 
-[29] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2025) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming.
+[30] <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming.
 
-[28] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>]
+[29] Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>]
 
-[27] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2025). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, in press. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>]
+[28] <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), in press. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>]
+
+[27] Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: Requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, in press. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>]
 
 [26] <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025). Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand. <i>European Journal of Operational Research</i>, 325(3), 541-552. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725002516">link</a>] 
 

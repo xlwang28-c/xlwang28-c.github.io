@@ -25,7 +25,7 @@ venue: "Sichuan University, Business School"
   </ul></li>
   <li>Quality and Reliability Management (Full-time MEM Program, 36 credit hours)
   <ul>
-    <li>2023/24 Fall [<b>SFQ: 99.1</b>]; 2024/25 Fall</li>
+    <li>2023/24 Fall [<b>SFQ: 99.1</b>]; 2024/25 Fall [<b>SFQ: 98.3</b>]</li>
   </ul></li>
 </ul>
 

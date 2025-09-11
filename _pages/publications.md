@@ -40,7 +40,7 @@ author_profile: true
 
 [18] <b>Xiao-Lin Wang</b>, Yuanguang Zhong, Lishuai Li, Wei Xie, Zhi-Sheng Ye. (2022). Warranty Reserve Management: Demand Learning and Funds Pooling. <i>Manufacturing & Service Operations Management</i>. 24(4), 2221-2239. [<a href="https://pubsonline.informs.org/doi/10.1287/msom.2022.1086">link</a>]
 
-[17] Zhonghao Wang, Zhengguo Xu, <b>Xiaolin Wang</b>, Min Xie. (2022). A temporal-spatial cleaning optimization method for photovoltaic power plants. <i>Sustainable Energy Technologies and Assessments</i>. 49, 101691. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S2213138821007050">link</a>]
+[17] Zhonghao Wang, Zhengguo Xu<sup>*</sup>, <b>Xiaolin Wang</b>, Min Xie. (2022). A temporal-spatial cleaning optimization method for photovoltaic power plants. <i>Sustainable Energy Technologies and Assessments</i>. 49, 101691. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S2213138821007050">link</a>]
 
 [16] Bin Liu, Mahesh D. Pandey, <b>Xiaolin Wang</b>, Xiujie Zhao<sup>*</sup>. (2021). A finite-horizon condition-based maintenance for a two-unit system with dependent degradation processes. <i>European Journal of Operational Research</i>. 295(2), 705-717. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221721002009">link</a>]
 
@@ -64,15 +64,15 @@ author_profile: true
 
 [6] <b>Xiaolin Wang</b>, Wei Xie<sup>*</sup>. (2018). Two-dimensional warranty: A literature review. <i>Journal of Risk and Reliability</i>. 232(3), 284-307. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006X17742776">link</a>]
 
-[5] Chun Su, <b>Xiaolin Wang</b>. (2016). A two-stage preventive maintenance optimization model incorporating two-dimensional extended warranty. <i>Reliability Engineering & System Safety</i>. 155, 169-178. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832016302216">link</a>]
+[5] Chun Su<sup>*</sup>, <b>Xiaolin Wang</b>. (2016). A two-stage preventive maintenance optimization model incorporating two-dimensional extended warranty. <i>Reliability Engineering & System Safety</i>. 155, 169-178. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832016302216">link</a>]
 
-[4] <b>Xiaolin Wang</b>, Chun Su. (2016). A two-dimensional preventive maintenance strategy for items sold with warranty. <i>International Journal of Production Research</i>. 54(19), 5901-5915. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1187314">link</a>]
+[4] <b>Xiaolin Wang</b>, Chun Su<sup>*</sup>. (2016). A two-dimensional preventive maintenance strategy for items sold with warranty. <i>International Journal of Production Research</i>. 54(19), 5901-5915. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1187314">link</a>]
 
-[3] Chun Su, <b>Xiaolin Wang</b>. (2016). Optimal upgrade policy for used products sold with two-dimensional warranty. <i>Quality and Reliability Engineering International</i>. 32(8), 2889-2899. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/qre.1973">link</a>]
+[3] Chun Su<sup>*</sup>, <b>Xiaolin Wang</b>. (2016). Optimal upgrade policy for used products sold with two-dimensional warranty. <i>Quality and Reliability Engineering International</i>. 32(8), 2889-2899. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/qre.1973">link</a>]
 
-[2] Chun Su, <b>Xiaolin Wang</b>. (2016). Modeling flexible two-dimensional warranty contracts for used products considering reliability improvement actions. <i>Journal of Risk and Reliability</i>. 230(2), 237-247. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006x15627395">link</a>]
+[2] Chun Su<sup>*</sup>, <b>Xiaolin Wang</b>. (2016). Modeling flexible two-dimensional warranty contracts for used products considering reliability improvement actions. <i>Journal of Risk and Reliability</i>. 230(2), 237-247. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006x15627395">link</a>]
 
-[1] Chun Su, <b>Xiaolin Wang</b>. (2014). Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty. <i>Journal of Risk and Reliability</i>. 228(5), 518-528. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250">link</a>]
+[1] Chun Su<sup>*</sup>, <b>Xiaolin Wang</b>. (2014). Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty. <i>Journal of Risk and Reliability</i>. 228(5), 518-528. [<a href="https://journals.sagepub.com/doi/abs/10.1177/1748006x14537250">link</a>]
 
 
 

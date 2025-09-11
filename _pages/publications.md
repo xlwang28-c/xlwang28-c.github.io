@@ -38,7 +38,7 @@ author_profile: true
 
 [19] Shizhe Peng, Wei Jiang, Lai Wei, <b>Xiao-Lin Wang</b><sup>*</sup>. (2022). A new cost-sharing preventive maintenance program under two-dimensional warranty. <i>International Journal of Production Economics</i>. 254, 108580. [<a href="https://www.sciencedirect.com/science/article/pii/S0925527322001694">link</a>]
 
-[18] <b>Xiao-Lin Wang</b>, Yuanguang Zhong, Lishuai Li, Wei Xie<sup>*</sup>, Zhi-Sheng Ye. (2022). Warranty Reserve Management: Demand Learning and Funds Pooling. <i>Manufacturing & Service Operations Management</i>. 24(4), 2221-2239. [<a href="https://pubsonline.informs.org/doi/10.1287/msom.2022.1086">link</a>]
+[18] <b>Xiao-Lin Wang</b>, Yuanguang Zhong, Lishuai Li, Wei Xie, Zhi-Sheng Ye. (2022). Warranty Reserve Management: Demand Learning and Funds Pooling. <i>Manufacturing & Service Operations Management</i>. 24(4), 2221-2239. [<a href="https://pubsonline.informs.org/doi/10.1287/msom.2022.1086">link</a>]
 
 [17] Zhonghao Wang, Zhengguo Xu, <b>Xiaolin Wang</b>, Min Xie. (2022). A temporal-spatial cleaning optimization method for photovoltaic power plants. <i>Sustainable Energy Technologies and Assessments</i>. 49, 101691. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S2213138821007050">link</a>]
 

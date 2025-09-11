@@ -19,7 +19,7 @@ venue: "Sichuan University, Business School"
   <ul>
     <li>2024/25 Spring [<b>SFQ: 95.8</b>]; 2025/26 Fall </li>
   </ul></li>
-  <li>Academic Ethics and Scholarly Writing (PG Compulsory, 16 credit hours)
+  <li>Scholarly Integrity and Academic Writing (PG Compulsory, 16 credit hours)
   <ul>
     <li>2025/26 Fall </li>
   </ul></li>

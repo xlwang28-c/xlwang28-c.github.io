@@ -84,7 +84,7 @@ author_profile: true
 
 [W3] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under review.   
 
-[W4] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under review.
+[W4] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision.
 
 [W5] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>European Journal of Operational Research</i>, under review.
 

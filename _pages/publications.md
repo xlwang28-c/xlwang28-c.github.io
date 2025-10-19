@@ -86,7 +86,7 @@ author_profile: true
 
 [W4] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision.
 
-[W5] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>European Journal of Operational Research</i>, under review.
+[W5] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>IISE Transactions</i>, under review.
 
 [W6] <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2025) Price Competition Under the Consider-then-Choose Logit Model, under preparation.
 

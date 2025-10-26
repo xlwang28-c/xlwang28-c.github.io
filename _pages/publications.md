@@ -102,17 +102,19 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[W1] Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under minor revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>]  
-
-[W2] Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round review. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] 
-
-[W3] <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision.   
-
-[W4] Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision.
-
-[W5] Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>IISE Transactions</i>, under review.
-
-[W6] <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2025) Price Competition Under the Consider-then-Choose Logit Model, under preparation.
-
-[W7] <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, working paper.  
-
+<ul>
+  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under minor revision. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
+  
+  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round review. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
+    
+  <li> <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
+  
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision. </li>
+  
+  <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A Nonparametric Control Chart for Monitoring IoT Networks with Large-scale Nodes, <i>IISE Transactions</i>, under review. </li>
+  
+  <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2025) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
+  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, working paper. </li>  
+    
+<\ul>

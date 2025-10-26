@@ -117,4 +117,4 @@ author_profile: true
   
   <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, working paper. </li>  
     
-<\ul>
+</ul>

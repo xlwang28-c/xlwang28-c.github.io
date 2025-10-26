@@ -27,8 +27,7 @@ author_profile: true
 
 <h3>Operations and Revenue Management</h3>
 
-<ul>
-  
+<ul>  
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
     
     <li> <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025). Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand. <i>European Journal of Operational Research</i>, 325(3), 541-552. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725002516">link</a>] </li> 
@@ -65,8 +64,7 @@ author_profile: true
 
 <h3>Warranty and Maintenance Management</h3>
 
-<ul>
-  
+<ul>  
   <li> Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, 1(3), 032003. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>] </li>
     
     <li> Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). Online reinforcement learning for condition-based group maintenance using factored Markov decision processes. <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>] </li>

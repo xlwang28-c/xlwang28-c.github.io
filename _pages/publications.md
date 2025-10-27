@@ -10,12 +10,11 @@ author_profile: true
 {% endif %}
 
 
-<h2>Journal Papers</h2> 
 (Student author underlined)
 
 
 
-<h3>Data Science</h3>
+<h2>Data Science</h2>
 
 <ul>
   <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming. </li>
@@ -25,7 +24,7 @@ author_profile: true
 
 
 
-<h3>Operations and Revenue Management</h3>
+<h2>Operations and Revenue Management</h2>
 
 <ul>  
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
@@ -48,7 +47,7 @@ author_profile: true
 
 
 
-<h3>Quality and Reliability Management</h3>
+<h2>Quality and Reliability Management</h2>
 
 <ul>
   <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>

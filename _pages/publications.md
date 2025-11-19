@@ -17,7 +17,7 @@ author_profile: true
 <h2>Data Science</h2>
 
 <ul>
-  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming. </li>
+  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming. [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
 </ul>
 
 

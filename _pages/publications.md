@@ -17,7 +17,9 @@ author_profile: true
 <h2>Data Science</h2>
 
 <ul>
-  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, forthcoming. [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
+  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
+
+  <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026) A Unified Uncertainty-informed Approach For Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, accepted </li>
 </ul>
 
 

@@ -14,12 +14,15 @@ author_profile: true
 
 
 
-<h2>Data Science</h2>
+<h2>Machine Learning and Data Science</h2>
 
 <ul>
   <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
 
   <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026) A Unified Uncertainty-informed Approach For Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, accepted </li>
+
+  <li> Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). Online reinforcement learning for condition-based group maintenance using factored Markov decision processes. <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>] </li>   
+   
 </ul>
 
 
@@ -55,8 +58,6 @@ author_profile: true
   <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>
 
   <li> Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, 1(3), 032003. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>] </li>
-    
-  <li> Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). Online reinforcement learning for condition-based group maintenance using factored Markov decision processes. <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>] </li>   
     
   <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup>. (2024). Monitoring aggregate warranty claims with dynamically-designed CUSUM and EWMA charts. <i>International Journal of Production Research</i>. 62(7), 2370-2397. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2217298">link</a>] </li>
     

@@ -106,7 +106,7 @@ author_profile: true
 <ul>
   <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under 3rd round review. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
   
-  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round review. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
+  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     
   <li> <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
   

@@ -17,9 +17,11 @@ author_profile: true
 <h2>Machine Learning and Data Analytics</h2>
 
 <ul>
-  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
+  <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang (2026) Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press. [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
 
-  <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026) A Unified Uncertainty-informed Approach For Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, accepted </li>
+  <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Fenglei Fan, Yiu-Ming Cheung, Indranil Bose (2026) Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. </li>
+  
+  <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026) A Unified Uncertainty-informed Approach For Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, accepted. </li>
 
   <li> Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). Online reinforcement learning for condition-based group maintenance using factored Markov decision processes. <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>] </li>   
    

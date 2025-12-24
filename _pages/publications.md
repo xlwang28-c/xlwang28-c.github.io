@@ -34,6 +34,8 @@ author_profile: true
 <h2>Operations and Revenue Management</h2>
 
 <ul>  
+  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, accepted. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
+  
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
     
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng, Xiaoge Zhang<sup>*</sup>. (2025). Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand. <i>European Journal of Operational Research</i>, 325(3), 541-552. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725002516">link</a>] </li> 
@@ -107,7 +109,6 @@ author_profile: true
 <h2>Working Papers</h2>
 
 <ul>
-  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, under 3rd round review. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
   
   <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     

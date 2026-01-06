@@ -21,7 +21,7 @@ author_profile: true
 
   <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Fenglei Fan, Yiu-Ming Cheung, Indranil Bose. (2026). Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. </li>
   
-  <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026). A Unified Uncertainty-Informed Approach For Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, in press. [<a href="https://ieeexplore.ieee.org/document/11329063">link</a>]</li>
+  <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026). A Unified Uncertainty-Informed Approach for Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, in press. [<a href="https://ieeexplore.ieee.org/document/11329063">link</a>]</li>
 
   <li> Jianyu Xu, Bin Liu<sup>*</sup>, Xiujie Zhao, <b>Xiao-Lin Wang</b>. (2024). Online reinforcement learning for condition-based group maintenance using factored Markov decision processes. <i>European Journal of Operational Research</i>. 315(1), 176-190. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221723008950">link</a>] </li>   
    

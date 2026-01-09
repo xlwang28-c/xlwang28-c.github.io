@@ -19,7 +19,7 @@ author_profile: true
 <ul>
   <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang. (2026). Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press. [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
 
-  <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Fenglei Fan, Yiu-Ming Cheung, Indranil Bose. (2026). Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. </li>
+  <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Feng-Lei Fan, Yiu-Ming Cheung, Indranil Bose. (2026). Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. </li>
   
   <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026). A Unified Uncertainty-Informed Approach for Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, in press. [<a href="https://ieeexplore.ieee.org/document/11329063">link</a>]</li>
 
@@ -34,7 +34,7 @@ author_profile: true
 <h2>Operations and Revenue Management</h2>
 
 <ul>  
-  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2025) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, accepted. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
+  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2026) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, accepted. [<a href="https://arxiv.org/abs/2501.18203">link</a>] </li>
   
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
     
@@ -110,16 +110,16 @@ author_profile: true
 
 <ul>
   
-  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2025) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
+  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2026) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     
-  <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2025) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
+  <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2026) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
   
-  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2025) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision. </li>
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision. </li>
   
-  <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2025) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under review. </li>
+  <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under review. </li>
   
-  <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2025) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
   
-  <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2025) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>Journal of the Operational Research Society</i>, working paper. </li>  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, working paper. </li>  
     
 </ul>

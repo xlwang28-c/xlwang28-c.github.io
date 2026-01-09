@@ -120,6 +120,6 @@ author_profile: true
   
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
   
-  <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, working paper. </li>  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under review. </li>  
     
 </ul>

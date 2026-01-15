@@ -19,7 +19,7 @@ author_profile: true
 <ul>
   <li> <u>Pingping Dong</u>, <b>Xiao-Lin Wang</b>, Indranil Bose, Kam K. H. Ng, Xiaoning Zhang, Xiaoge Zhang. (2026). Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction, <i>INFORMS Journal on Computing</i>, in press. [<a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0891">link</a>]</li>
 
-  <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Feng-Lei Fan, Yiu-Ming Cheung, Indranil Bose. (2026). Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. </li>
+  <li> Xiaoge Zhang, Tao Wang, <b>Xiao-Lin Wang</b>, Feng-Lei Fan, Yiu-Ming Cheung, Indranil Bose. (2026). Causality-Informed Neural Networks for Regularized Learning in Regression Problems, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press. [<a href="https://ieeexplore.ieee.org/document/11353218">link</a>]</li>
   
   <li> <u>Long Xue</u>, Sai-Ho Chung, Lechang Yang, <b>Xiao-Lin Wang</b>, Xiaoge Zhang<sup>*</sup>. (2026). A Unified Uncertainty-Informed Approach for Risk Management of Deep Learning Models in the Open World, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, in press. [<a href="https://ieeexplore.ieee.org/document/11329063">link</a>]</li>
 

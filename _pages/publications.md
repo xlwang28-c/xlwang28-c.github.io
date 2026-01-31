@@ -114,7 +114,7 @@ author_profile: true
     
   <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b>* (2026) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
   
-  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under major revision. </li>
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under 2nd round review. </li>
   
   <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under review. </li>
   

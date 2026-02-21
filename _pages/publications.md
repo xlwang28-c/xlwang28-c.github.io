@@ -118,7 +118,7 @@ author_profile: true
   
   <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under review. </li>
 
-  <li> Shizhe Peng, Quanchen Liu,<sup>*</sup> Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>European Journal of Operational Research</i>, under review </li>
+  <li> Shizhe Peng, Quanchen Liu,<sup>*</sup> Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under review </li>
   
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
   

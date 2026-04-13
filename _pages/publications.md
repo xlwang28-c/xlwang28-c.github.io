@@ -120,7 +120,7 @@ author_profile: true
   
   <li> <u>Wanqing Cheng</u>, Xiujie Zhao*, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
 
-  <li> Shizhe Peng, Quanchen Liu,<sup>*</sup> Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under review. </li>
+  <li> Shizhe Peng, Quanchen Liu,<sup>*</sup> Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
   
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
 

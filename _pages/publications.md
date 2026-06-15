@@ -116,13 +116,15 @@ author_profile: true
   
   <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under minor revision. </li>
   
-  <li> Junjie Wang, Chenglong Li,<sup>*</sup> <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under major revision. </li>
+  <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under major revision. </li>
   
-  <li> <u>Wanqing Cheng</u>, Xiujie Zhao,<sup>*</sup> Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao<sup>*</sup>, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
 
-  <li> Shizhe Peng, Quanchen Liu,<sup>*</sup> Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
+  <li> Shizhe Peng, Quanchen Liu<sup>*</sup>, Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
 
-  <li> Yian Wei, Yao Cheng,<sup>*</sup> <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under review. </li>
+  <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under review. </li>
+
+   <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026) Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under review. </li>  
   
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
 

@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 ---
 <ul>
+  <li><b>18 June 2026</b> - School of Management, Hangzhou Dianzi University, Seminar (Invited by Assoc. Prof. Yuanpeng Ruan)</li>
   <li><b>29 July 2025</b> - International Conference on Reliability, Maintainability and Safety (Shanghai, China), Invited Speech</li>
   <li><b>23 November 2024</b> - Annual Conference of the Chinese Industrial Engineering Institute of CMES (Zhuhai, China), Invited Speech</li>
   <li><b>7 June 2024</b> - School of Management, Northwest Polytechnic University, Seminar (Invited by Assoc. Prof. Chenglong Li)</li>

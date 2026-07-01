@@ -59,6 +59,8 @@ author_profile: true
 <h2>Quality and Reliability Management</h2>
 
 <ul>
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, in press. </li>
+  
   <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>
 
   <li> Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, 1(3), 032003. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>] </li>
@@ -113,8 +115,6 @@ author_profile: true
   <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2026) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     
   <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
-  
-  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, under minor revision. </li>
   
   <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under major revision. </li>
   

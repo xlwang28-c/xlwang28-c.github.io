@@ -126,8 +126,8 @@ author_profile: true
 
    <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026) Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under review. </li>  
   
-  <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup> (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu (2026) Price Competition Under the Consider-then-Choose Logit Model, under preparation. </li>
 
-  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun (2026) Data Integrated Maintenance Decision Making: Advances, Challenges, and Opportunities, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Olivier Gaudoin, Christophe Berenguer (2026) A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
     
 </ul>

@@ -128,6 +128,6 @@ author_profile: true
   
   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu (2026) Price Competition Under the Consider-then-Choose Logit Model, under review. </li>
 
-  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Olivier Gaudoin, Christophe Berenguer (2026) A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026) A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
     
 </ul>

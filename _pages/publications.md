@@ -34,7 +34,7 @@ author_profile: true
 <h2>Operations and Revenue Management</h2>
 
 <ul>  
-  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2026) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, in press. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2612181?src=">link</a>] </li>
+  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2026) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, 58(11), 1370-1383. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2612181?src=">link</a>] </li>
   
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
     
@@ -125,6 +125,8 @@ author_profile: true
   <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under review. </li>
 
    <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026) Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under review. </li>  
+
+   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price Competition Under the Consider-then-Choose Logit Model. <i>European Journal of Operational Research</i>, under review.
 
   <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026) A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
     

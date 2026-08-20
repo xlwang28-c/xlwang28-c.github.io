@@ -59,7 +59,7 @@ author_profile: true
 <h2>Quality and Reliability Management</h2>
 
 <ul>
-  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, in press. </li>
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, in press. [<a href="https://www.tandfonline.com/doi/full/10.1080/00224065.2026.2698473">link</a>] </li>
   
   <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>
 

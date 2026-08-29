@@ -122,7 +122,7 @@ author_profile: true
 
   <li> Shizhe Peng, Quanchen Liu<sup>*</sup>, Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
 
-  <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under review. </li>
+  <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under major revision. </li>
 
    <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026) Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under review. </li>  
 

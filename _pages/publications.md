@@ -34,7 +34,7 @@ author_profile: true
 <h2>Operations and Revenue Management</h2>
 
 <ul>  
-  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2026) Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, 58(11), 1370-1383. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2612181?src=">link</a>] </li>
+  <li> Yajing Chen, Yanrong Li<sup>*</sup>, <b>Xiao-Lin Wang</b><sup>*</sup>, Zhi-Sheng Ye (2026). Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products, <i>IISE Transactions</i>, 58(11), 1370-1383. [<a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2612181?src=">link</a>] </li>
   
   <li> <b>Xiao-Lin Wang</b>, Chenglong Li, Junjie Wang<sup>*</sup>. (2026). Design and Pricing of Extended Warranty Menus with Reference Effects. <i>European Journal of Operational Research</i>, 328(1), 201-215. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221725004540">link</a>] </li>
     
@@ -59,11 +59,11 @@ author_profile: true
 <h2>Quality and Reliability Management</h2>
 
 <ul>
-  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, in press. [<a href="https://www.tandfonline.com/doi/full/10.1080/00224065.2026.2698473">link</a>] </li>
+  <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026). Two adaptive approaches to monitoring dynamically accumulating warranty claims, <i>Journal of Quality Technology</i>, in press. [<a href="https://www.tandfonline.com/doi/full/10.1080/00224065.2026.2698473">link</a>] </li>
   
-  <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>
+  <li> Zan Li, Jianyu Xu, Chengjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026). Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic, <i>European Journal of Operational Research</i>, 328(1), 189-200. [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725006277">link</a>] </li>
 
-  <li> Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025) Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, 1(3), 032003. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>] </li>
+  <li> Yiliu Liu*, <b>Xiao-Lin Wang</b> (2025). Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives, <i>Journal of Reliability Science and Engineering</i>, 1(3), 032003. [<a href="https://iopscience.iop.org/article/10.1088/3050-2454/ae033b">link</a>] </li>
     
   <li> Chenglong Li, Junjie Wang, <b>Xiao-Lin Wang</b><sup>*</sup>. (2024). Monitoring aggregate warranty claims with dynamically-designed CUSUM and EWMA charts. <i>International Journal of Production Research</i>. 62(7), 2370-2397. [<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2217298">link</a>] </li>
     
@@ -112,22 +112,22 @@ author_profile: true
 
 <ul>
   
-  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2026) An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
+  <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2026). An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     
-  <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026) Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
+  <li> <u>Peng Liu</u>, Qiuzhuang Sun, Guanjun Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026). Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
   
-  <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) A general framework for modeling and monitoring large-scale weighted networks, <i>IISE Transactions</i>, under 2nd round review. </li>
+  <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026). A general framework for modeling and monitoring large-scale weighted networks with communities, <i>IISE Transactions</i>, under 2nd round review. </li>
   
-  <li> <u>Wanqing Cheng</u>, Xiujie Zhao<sup>*</sup>, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026) Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under 2nd round review. </li>  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao<sup>*</sup>, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026). Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under 2nd round review. </li>  
 
-  <li> Shizhe Peng, Quanchen Liu<sup>*</sup>, Xiyang Hou, <b>Xiao-Lin Wang</b> (2026) Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
+  <li> Shizhe Peng, Quanchen Liu<sup>*</sup>, Xiyang Hou, <b>Xiao-Lin Wang</b> (2026). Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
 
-  <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026) Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under major revision. </li>
+  <li> Yian Wei, Yao Cheng<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026). Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies, <i>European Journal of Operational Research</i>, under major revision. </li>
 
-   <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026) Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
+   <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026). Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
 
-   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price Competition Under the Consider-then-Choose Logit Model. <i>European Journal of Operational Research</i>, under review. </li> 
+   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price competition for differentiated products with costly consumer search. <i>European Journal of Operational Research</i>, under review. </li> 
 
-  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026) A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026). A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
     
 </ul>

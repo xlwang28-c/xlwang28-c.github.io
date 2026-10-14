@@ -118,7 +118,7 @@ author_profile: true
   
   <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026). A general framework for modeling and monitoring large-scale weighted networks with communities, <i>IISE Transactions</i>, under 2nd round review. </li>
   
-  <li> <u>Wanqing Cheng</u>, Xiujie Zhao<sup>*</sup>, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026). Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under 2nd round review. </li>  
+  <li> <u>Wanqing Cheng</u>, Xiujie Zhao<sup>*</sup>, Jianyu Xu, Zhen He, <b>Xiao-Lin Wang</b> (2026). Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity, <i>IEEE Transactions on Engineering Management</i>, under 2nd round revision. </li>  
 
   <li> Shizhe Peng, Quanchen Liu<sup>*</sup>, Xiyang Hou, <b>Xiao-Lin Wang</b> (2026). Extended Warranty Pricing in the Presence of Consumer Reliability Learning, <i>IISE Transactions</i>, under major revision. </li>
 

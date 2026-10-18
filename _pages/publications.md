@@ -114,7 +114,7 @@ author_profile: true
   
   <li> Jianyu Xu, Miao Song, <b>Xiao-Lin Wang</b> (2026). An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits, <i>Management Science</i>, under 2nd round revision. [<a href="https://www.researchgate.net/publication/360493826_An_Online_State-Dependent_Successive_Elimination_Algorithm_for_Rested_Bandits">link</a>] </li> 
     
-  <li> Qiuzhuang Sun, <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026). Data-Integrated Periodic Replacement with Operational Statistics, <i>Production and Operations Management</i>, under major revision. </li>
+  <li> Qiuzhuang Sun, <u>Peng Liu</u>, Guanjun Wang, <b>Xiao-Lin Wang</b><sup>*</sup> (2026). Data-Integrated Periodic Replacement with Operational Data Analytics (ODA), <i>Production and Operations Management</i>, under 2nd round review. </li>
   
   <li> Junjie Wang, Chenglong Li<sup>*</sup>, <b>Xiao-Lin Wang</b> (2026). A general framework for modeling and monitoring large-scale weighted networks with communities, <i>IISE Transactions</i>, under 2nd round review. </li>
   
@@ -126,8 +126,8 @@ author_profile: true
 
    <li> Songhua Hao, Changxi Wang, <b>Xiao-Lin Wang</b><sup>*</sup>, Min Xie (2026). Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities, <i>IEEE Transactions on Engineering Management</i>, under major revision. </li>  
 
-   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price competition for differentiated products with costly consumer search. <i>European Journal of Operational Research</i>, under review. </li> 
+   <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price competition for differentiated products with costly consumer search. working paper. </li> 
 
-  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026). A Literature Review on Data-Integrated Maintenance Decision-making, under preparation. </li>
+  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026). A Literature Review on Data-Integrated Maintenance Optimization, under preparation. </li>
     
 </ul>

@@ -128,6 +128,6 @@ author_profile: true
 
    <li> <b>Xiao-Lin Wang</b>, Shizhe Peng<sup>*</sup>, Xiaoge Zhang, Jianyu Xu. (2026). Price competition for differentiated products with costly consumer search. working paper. </li> 
 
-  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026). A Literature Review on Data-Integrated Maintenance Decision-Making, <i>European Journal of Operational Research</i>, under review. </li>
+  <li> <b>Xiao-Lin Wang</b>, Qiuzhuang Sun, Christophe Berenguer (2026). A Literature Review on Data-Integrated Maintenance Decision-Making, <i>European Journal of Operational Research</i>, under review. [<a href="https://www.researchgate.net/publication/417937519_A_literature_review_on_data-integrated_maintenance_decision-making">link</a>]</li>
     
 </ul>
